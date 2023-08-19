@@ -1,0 +1,5 @@
+package com.lojaDeConstruccao.sistema.controller;
+
+public class FuncionarioController {
+
+}
